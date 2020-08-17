@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    min-height: 100vh;
+}
+
+.containerX{
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: calc(100% - 30px);
+}
+
+.pt-4r{
+    padding-top: 4rem;
+}
+
+.pt-6{
+    padding-top: 4rem;
+    padding-left: 6rem;
+}
